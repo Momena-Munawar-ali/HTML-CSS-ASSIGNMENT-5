@@ -1,0 +1,67 @@
+table{
+    margin: auto;
+}
+input{
+    width: 260px;
+    height:30px ;
+    
+}
+button{
+    width: 270px;
+    height: 30px;
+    background-color:rgb(74, 135, 228);
+    color: white;
+}
+#small{
+    height: 20px;
+}
+a{
+    text-decoration: none;
+    line-height: 40px;
+    
+}
+#aaa{
+    text-align: center;
+    border: 1px solid grey;
+    padding: 50px ;
+}
+#bbb{
+    padding: 5px;
+    border:1px solid grey ;
+    text-align: center;
+}
+#cen{
+    text-align: center;
+    
+}
+.sss{
+    width: 250px;
+    margin-left: 50px;
+
+}
+.fff{
+    width:140px ;
+    height: 46px;
+}
+.dif{
+    
+    color: grey;
+    
+}
+.ppp{
+    text-align: center;
+    word-spacing: 10px;
+    font-size: small;
+}
+.col{
+    color: grey;
+    
+}
+#sel{
+    border-color: white;
+    color: grey;
+}
+#lll{
+    text-align: center;
+    font-size: small;
+}
